@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
 
+
+@media screen and (max-width: 500px) {
+    body {
+      background-color: yellow;
+    }
+}
+
+@media screen and (max-height: 500px) {
+    body {
+      background-color: limegreen;
+    }
+}
+
+
 body{
     font-family: sans-serif;
     background-color: lightblue;
@@ -7,6 +21,7 @@ body{
 
 header{
     background-color: lightsalmon;
+    padding-bottom: 15px;
 }
 
 h1{
@@ -43,6 +58,7 @@ table{
     width: 550px;
     height: 225px;
     background-color: rgb(224, 172, 39);
+    margin-top: -25px;
 }
 
 tr{
@@ -69,7 +85,7 @@ p.cuadro{
 section.tres{
     background-color: chocolate;
     height: 45px;
-    margin-top: -16px;
+    margin-top: -15px;
     padding-top: px;
     padding-bottom: 12px;
 }
