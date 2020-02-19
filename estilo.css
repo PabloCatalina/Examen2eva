@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
+
+body{
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+header{
+    background-color: lightsalmon;
+}
+
+h1{
+    font-family: "Zhi Mang Xing";
+    color: red;
+    text-shadow: orange 4px 0;
+}
+
+span.P{
+    color: chocolate;
+    font-family: Helvetica;
+    background-color: blanchedalmond;
+    font-size: 65px;
+    text-shadow: orange 4px 0;
+    padding-right: 5px;
+}
+
+section.uno{
+    background-color: rgb(110, 218, 96);
+}
+
+span.rojo{
+    color: red;
+}
+
+section.dos{
+    background-color: blanchedalmond;
+    margin-top: -30px;
+    padding-bottom: 5px;
+}
+
+table{
+    border-collapse: separate;
+    width: 550px;
+    height: 225px;
+    background-color: rgb(224, 172, 39);
+}
+
+tr{
+    background-color: goldenrod;
+    
+    
+}
+
+td{
+    
+    
+}
+
+p.cuadro{
+    background-color: blue;
+    border: red solid 2px;
+    text-align: center;
+    color: blue;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: -1px;
+}
+
+section.tres{
+    background-color: chocolate;
+    height: 45px;
+    margin-top: -16px;
+    padding-top: px;
+    padding-bottom: 12px;
+}
+
+p.borde{
+    text-align: center;
+    color: yellow;
+    border-color: blue red yellow red;
+    border-style: dotted solid dashed solid;
+    border-width: 20px;
+    
+}
